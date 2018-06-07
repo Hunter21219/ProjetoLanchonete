@@ -1,0 +1,208 @@
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojResolveAssemblyReference.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojResolveAssemblyReference.cache
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+C:\Users\icaro.yferraz\Desktop\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+E:\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+E:\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+E:\Projeto Lanchonete\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojResolveAssemblyReference.cache
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+E:\Projeto Lanchonete\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojAssemblyReference.cache
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+C:\Users\icaro.yferraz\Desktop\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lanches.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lanches.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+E:\Banco de Dados\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojAssemblyReference.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojAssemblyReference.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lanches.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastro_Bebidas.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Deseja_Sair_do_Programa.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrando_Bebidas.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrar_Fornecedores.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Combos_e_Promoções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 04\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Porções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojAssemblyReference.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrando_Bebidas.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrar_Fornecedores.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastro_Bebidas.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Combos_e_Promoções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Deseja_Sair_do_Programa.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lanches.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Porções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe.config
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.exe
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Projeto Lanchonete.pdb
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csprojResolveAssemblyReference.cache
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrando_Bebidas.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastrar_Fornecedores.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Cadastro_Bebidas.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Combos_e_Promoções.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Deseja_Sair_do_Programa.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Funcionário.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.frmProjeto.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lanches.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Lista_de_funcionários.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Porções.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.GenerateResource.cache
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CoreCompileInputs.cache
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe
+G:\Projeto C# Lanchonete\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.pdb
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.AlterarFornecedores.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.AlterarCombosPromoções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto_Lanchonete.Alterar_Porções.resources
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\EnvDTE.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\stdole.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\EnvDTE80.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\VSLangProj.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\VSLangProj80.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.MSXML.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\VSLangProj2.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.exe.config
+C:\Users\anderson.lsalvi1\Desktop\Projeto Lanchonete 4.4.0\Projeto Lanchonete\obj\Debug\Projeto Lanchonete.csproj.CopyComplete
